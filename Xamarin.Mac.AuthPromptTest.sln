@@ -1,0 +1,23 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Xamarin.Mac.AuthPromptTest", "Xamarin.Mac.AuthPromptTest\Xamarin.Mac.AuthPromptTest.csproj", "{3177F795-7B0F-4B81-B22E-3840E867B950}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RunAsRootConsoleApp", "RunAsRootConsoleApp\RunAsRootConsoleApp.csproj", "{A67D9952-65DF-4894-B1BD-79EA3CD29190}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3177F795-7B0F-4B81-B22E-3840E867B950}.Debug|x86.ActiveCfg = Debug|x86
+		{3177F795-7B0F-4B81-B22E-3840E867B950}.Debug|x86.Build.0 = Debug|x86
+		{3177F795-7B0F-4B81-B22E-3840E867B950}.Release|x86.ActiveCfg = Release|x86
+		{3177F795-7B0F-4B81-B22E-3840E867B950}.Release|x86.Build.0 = Release|x86
+		{A67D9952-65DF-4894-B1BD-79EA3CD29190}.Debug|x86.ActiveCfg = Debug|x86
+		{A67D9952-65DF-4894-B1BD-79EA3CD29190}.Debug|x86.Build.0 = Debug|x86
+		{A67D9952-65DF-4894-B1BD-79EA3CD29190}.Release|x86.ActiveCfg = Release|x86
+		{A67D9952-65DF-4894-B1BD-79EA3CD29190}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+EndGlobal
